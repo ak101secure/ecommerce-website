@@ -43,3 +43,4 @@ cryptography
 whitenoise
 sqlparse
 stripe
+gunicorn
