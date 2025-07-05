@@ -33,3 +33,6 @@ whitenoise>=6.6
 
 
 djangorestframework-simplejwt
+
+
+PyJWT==2.8.0
