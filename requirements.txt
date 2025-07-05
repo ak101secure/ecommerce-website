@@ -36,3 +36,10 @@ djangorestframework-simplejwt
 
 
 PyJWT==2.8.0
+Django>=5.2
+django-allauth
+PyJWT
+cryptography
+whitenoise
+sqlparse
+stripe
