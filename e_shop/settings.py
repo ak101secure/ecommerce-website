@@ -6,7 +6,7 @@ SECRET_KEY = 'django-insecure-e%wmi)@=y5@5h+=a(3tc%!xsl&hky&(_5it^-zr%9kyicy9u(g
 
 DEBUG = os.environ.get('DEBUG', 'False') == 'True'
 
-ALLOWED_HOSTS = ['myshop.onrender.com']
+ALLOWED_HOSTS = ['*']
 
 
 
